@@ -1,0 +1,2 @@
+mongodb+srv://karandedigvijay2:DBhNmZJz7ZxolZ8C@cluster0.7b53q18.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
